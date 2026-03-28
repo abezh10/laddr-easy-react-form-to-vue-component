@@ -1,4 +1,14 @@
 {
-  "name": "easy-react-form-to-vue-component",
-  "private": true
+  "name": "laddr-easy-react-form-to-vue-component",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vue": "^3.4.0"
+  }
 }
